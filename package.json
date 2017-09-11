@@ -1,0 +1,16 @@
+{
+  "name": "prismic-to-algolia",
+  "version": "0.1.1",
+  "description": "Sync Prismic data and Algolia indexes",
+  "main": "index.js",
+  "repository": "https://github.com/exodusanto/prismic-to-algolia",
+  "author": "Antonio Dal Sie <info@antoniodalsie.com>",
+  "license": "MIT",
+  "scripts": {
+    "lint": "eslint {**/,}*.js",
+    "lint:fix": "eslint {**/,}*.js --fix"
+  },
+  "devDependencies": {
+    "eslint": "^4.6.1"
+  }
+}

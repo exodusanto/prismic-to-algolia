@@ -1,0 +1,1 @@
+## Sync Prismic and Algolia
