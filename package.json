@@ -1,6 +1,6 @@
 {
   "name": "prismic-to-algolia",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "description": "Sync Prismic data and Algolia indexes",
   "main": "index.js",
   "repository": "https://github.com/exodusanto/prismic-to-algolia",
